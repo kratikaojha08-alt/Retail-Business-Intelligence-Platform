@@ -4,7 +4,9 @@
 This project focuses on analyzing retail sales data to uncover meaningful business insights using Python and Power BI. The dataset was cleaned, explored, and transformed in Python before creating an interactive Power BI dashboard for visualization.
 
 The goal of this project is to help businesses understand sales performance, profitability, regional trends, and product performance through data-driven insights.
+## 📊 Power BI Dashboard
 
+![Retail Business Intelligence Dashboard](images/Dashboard.png.png)
 ---
 
 ## 🎯 Project Objectives
