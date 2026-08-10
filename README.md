@@ -67,23 +67,20 @@ Run the Streamlit dashboard:
 ## 📁 Project Structure
 
 Retail-Business-Intelligence-Platform/
-│
 ├── data/
-│ ├── raw/
-│ └── cleaned/
-│
+│   ├── raw/
+│   └── cleaned/
 ├── notebooks/
-│ └── 01_Data_Cleaning.ipynb
-│
+│   └── 01_Data_Cleaning.ipynb
 ├── powerbi/
-│ └── Retail_Business_Intelligence_Dashboard.pbix
-│
+│   └── Retail_Business_Intelligence_Dashboard.pbix
 ├── images/
-│ └── dashboard.png
-│
+│   └── dashboard.png
+├── streamlit/
+│   └── app.py
+├── .gitignore
 ├── README.md
 └── requirements.txt
-
 ---
 
 ## 📊 Dashboard Features
