@@ -9,7 +9,32 @@ The goal of this project is to help businesses understand sales performance, pro
 ![Retail Business Intelligence Dashboard](images/Dashboard.png.png)
 ---
 
-## 🎯 Project Objectives
+## 🚀 Streamlit Dashboard
+
+An interactive Python-based dashboard built with Streamlit for exploring retail sales, profit, orders, customers, categories, and state-wise performance.
+
+### Features
+
+- Interactive State and Category filters
+- Sales and Profit KPIs
+- Sales by Category
+- Profit by Category
+- Top 10 States by Sales
+- Monthly Sales Trend
+- Filtered data preview
+
+### ▶️ How to Run
+
+Install the required dependencies:
+```bash
+       pip install -r requirements.txt
+```
+Run the Streamlit dashboard:
+```bash
+   python -m streamlit run streamlit/app.py
+```
+
+### Project Objectives       
 
 - Clean and preprocess raw retail data
 - Perform Exploratory Data Analysis (EDA)
